@@ -1,0 +1,44 @@
+[project]
+name = "retrieval-lab"
+version = "0.1.0"
+description = "One retrieval benchmark (recall@k, MRR, nDCG with confidence intervals) reused for every experiment: embeddings, chunking, multilingual, hybrid, reranking, query rewriting"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "fastapi>=0.115",
+    "httpx>=0.27",
+    "numpy>=1.26",
+    "pymupdf>=1.24",
+    "sentence-transformers>=3.0",
+    "torch>=2.4",
+    "uvicorn>=0.30",
+]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+# the Linux (Docker) image gets CPU-only torch; macOS keeps the default wheel, which has Metal support
+[tool.uv.sources]
+torch = [{ index = "pytorch-cpu", marker = "sys_platform == 'linux'" }]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[project.scripts]
+retrieval-lab = "retrieval_lab.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/retrieval_lab"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "live: runs the real benchmark (needs the corpus from `retrieval-lab fetch` and an embedding endpoint)",
+    "docker: talks to the service started by `docker compose up`",
+]
+addopts = "-m 'not live and not docker'"
