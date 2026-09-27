@@ -1,0 +1,299 @@
+{"id": "2512.17194", "title": "MMRAG-RFT: Two-stage Reinforcement Fine-tuning for Explainable Multi-modal Retrieval-augmented Generation"}
+{"id": "2406.03790", "title": "End-to-End Trainable Retrieval-Augmented Generation for Relation Extraction"}
+{"id": "2405.19893", "title": "Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi Layered Thoughts"}
+{"id": "2412.15404", "title": "A Retrieval-Augmented Generation Framework for Academic Literature Navigation in Data Science"}
+{"id": "2309.01431", "title": "Benchmarking Large Language Models in Retrieval-Augmented Generation"}
+{"id": "2603.04647", "title": "Coordinated Semantic Alignment and Evidence Constraints for Retrieval-Augmented Generation with Large Language Models"}
+{"id": "2607.01852", "title": "Evaluating Chunking Strategies for Retrieval-Augmented Generation on Academic Texts"}
+{"id": "2406.13692", "title": "Synchronous Faithfulness Monitoring for Trustworthy Retrieval-Augmented Generation"}
+{"id": "2407.03955", "title": "Meta-prompting Optimized Retrieval-augmented Generation"}
+{"id": "2403.14197", "title": "Context Quality Matters in Training Fusion-in-Decoder for Extractive Open-Domain Question Answering"}
+{"id": "2406.16167", "title": "FS-RAG: A Frame Semantics Based Approach for Improved Factual Accuracy in Large Language Models"}
+{"id": "2406.02266", "title": "Enhancing Retrieval-Augmented LMs with a Two-stage Consistency Learning Compressor"}
+{"id": "2502.01113", "title": "GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation"}
+{"id": "2411.00437", "title": "E2E-AFG: An End-to-End Model with Adaptive Filtering for Retrieval-Augmented Generation"}
+{"id": "2405.13002", "title": "DuetRAG: Collaborative Retrieval-Augmented Generation"}
+{"id": "2509.10467", "title": "DSRAG: A Domain-Specific Retrieval Framework Based on Document-derived Multimodal Knowledge Graph"}
+{"id": "2402.11626", "title": "Metacognitive Retrieval-Augmented Large Language Models"}
+{"id": "2607.24767", "title": "The Effect of Text Chunk Size on Retrieval-Augmented Generation Performance"}
+{"id": "2408.08535", "title": "CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for Advanced Retrieval-Augmented Generation in Fact-Checking"}
+{"id": "2501.11929", "title": "ALoFTRAG: Automatic Local Fine Tuning for Retrieval Augmented Generation"}
+{"id": "2604.18509", "title": "MASS-RAG: Multi-Agent Synthesis Retrieval-Augmented Generation"}
+{"id": "2409.01864", "title": "The Role of Large Language Models in Musicology: Are We Ready to Trust the Machines?"}
+{"id": "2507.04026", "title": "Patient-Centered RAG for Oncology Visit Aid Following the Ottawa Decision Guide"}
+{"id": "2601.07054", "title": "Fine-Tuning vs. RAG for Multi-Hop Question Answering with Novel Knowledge"}
+{"id": "2403.01616", "title": "Towards Comprehensive Vietnamese Retrieval-Augmented Generation and Large Language Models"}
+{"id": "2504.08748", "title": "A Survey of Multimodal Retrieval-Augmented Generation"}
+{"id": "2603.09891", "title": "Overview of the TREC 2025 Retrieval Augmented Generation (RAG) Track"}
+{"id": "2509.21336", "title": "HetaRAG: Hybrid Deep Retrieval-Augmented Generation across Heterogeneous Data Stores"}
+{"id": "2202.01110", "title": "A Survey on Retrieval-Augmented Text Generation"}
+{"id": "2305.06983", "title": "Active Retrieval Augmented Generation"}
+{"id": "2404.00657", "title": "Observations on Building RAG Systems for Technical Documents"}
+{"id": "2604.20666", "title": "ORPHEAS: A Cross-Lingual Greek-English Embedding Model for Retrieval-Augmented Generation"}
+{"id": "2508.15253", "title": "Conflict-Aware Soft Prompting for Retrieval-Augmented Generation"}
+{"id": "2506.00210", "title": "REIC: RAG-Enhanced Intent Classification at Scale"}
+{"id": "2502.11371", "title": "RAG vs. GraphRAG: A Systematic Evaluation and Key Insights"}
+{"id": "2509.21371", "title": "ReGeS: Reciprocal Retrieval-Generation Synergy for Conversational Recommender Systems"}
+{"id": "2601.16503", "title": "MRAG: Benchmarking Retrieval-Augmented Generation for Bio-medicine"}
+{"id": "2410.11321", "title": "Self-adaptive Multimodal Retrieval-Augmented Generation"}
+{"id": "2403.09040", "title": "RAGGED: Towards Informed Design of Scalable and Stable RAG Systems"}
+{"id": "2603.06290", "title": "The EpisTwin: A Knowledge Graph-Grounded Neuro-Symbolic Architecture for Personal AI"}
+{"id": "2604.12735", "title": "AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition"}
+{"id": "2412.14457", "title": "VISA: Retrieval Augmented Generation with Visual Source Attribution"}
+{"id": "2508.16379", "title": "Agentic AI Empowered Multi-UAV Trajectory Optimization in Low-Altitude Economy Networks"}
+{"id": "2505.18906", "title": "Federated Retrieval-Augmented Generation: A Systematic Mapping Study"}
+{"id": "2407.03227", "title": "Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning"}
+{"id": "2509.21845", "title": "A Comprehensive Evaluation of Transformer-Based Question Answering Models and RAG-Enhanced Design"}
+{"id": "2605.24366", "title": "Structure-Aware RAG: Structured Retrieval Augmented Generation from Noisy Data for Conversational Agents"}
+{"id": "2601.18356", "title": "Making medical vision-language models think causally across modalities with retrieval-augmented cross-modal reasoning"}
+{"id": "2509.22009", "title": "GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation"}
+{"id": "2504.07584", "title": "REANIMATOR: Reanimate Retrieval Test Collections with Extracted and Synthetic Resources"}
+{"id": "2602.18734", "title": "Rethinking Retrieval-Augmented Generation as a Cooperative Decision-Making Problem"}
+{"id": "2604.16353", "title": "AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval"}
+{"id": "2402.01717", "title": "From RAG to QA-RAG: Integrating Generative AI for Pharmaceutical Regulatory Compliance Process"}
+{"id": "2409.15815", "title": "AsthmaBot: Multi-modal, Multi-Lingual Retrieval Augmented Generation For Asthma Patient Support"}
+{"id": "2603.05698", "title": "Towards Robust Retrieval-Augmented Generation Based on Knowledge Graph: A Comparative Analysis"}
+{"id": "2406.04369", "title": "RAG Does Not Work for Enterprises"}
+{"id": "2411.06805", "title": "AssistRAG: Boosting the Potential of Large Language Models with an Intelligent Information Assistant"}
+{"id": "2502.18763", "title": "CommGPT: A Graph and Retrieval-Augmented Multimodal Communication Foundation Model"}
+{"id": "2605.18769", "title": "ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation"}
+{"id": "2601.13744", "title": "A Note on k-NN Gating in RAG"}
+{"id": "2310.11511", "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection"}
+{"id": "2603.07233", "title": "Retrieval-Augmented Generation for Predicting Cellular Responses to Gene Perturbation"}
+{"id": "2502.17874", "title": "Neural Graph Matching Improves Retrieval Augmented Generation in Molecular Machine Learning"}
+{"id": "2402.11794", "title": "Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation"}
+{"id": "2409.13707", "title": "Retrieval Augmented Generation-Based Incident Resolution Recommendation System for IT Support"}
+{"id": "2311.17696", "title": "How to Build an Adaptive AI Tutor for Any Course Using Knowledge Graph-Enhanced Retrieval-Augmented Generation (KG-RAG)"}
+{"id": "2505.21996", "title": "VRAG: Learning World Models for Interactive Video Generation"}
+{"id": "2604.19899", "title": "A Reproducibility Study of Metacognitive Retrieval-Augmented Generation"}
+{"id": "2409.10955", "title": "Investigating Context-Faithfulness in Large Language Models: The Roles of Memory Strength and Evidence Style"}
+{"id": "2406.11830", "title": "Language Modeling with Editable External Knowledge"}
+{"id": "2411.08891", "title": "Reliable Decision Making via Calibration Oriented Retrieval Augmented Generation"}
+{"id": "2502.14727", "title": "WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models"}
+{"id": "2502.17297", "title": "Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts"}
+{"id": "2405.16506", "title": "GRAG: Graph Retrieval-Augmented Generation"}
+{"id": "2510.24402", "title": "Metadata-Driven Retrieval-Augmented Generation for Financial Question Answering"}
+{"id": "2601.15820", "title": "ExDR: Explanation-driven Dynamic Retrieval Enhancement for Multimodal Fake News Detection"}
+{"id": "2403.12077", "title": "Evaluating Robustness of Generative Search Engine on Adversarial Factual Questions"}
+{"id": "2407.18044", "title": "The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation for Healthcare QA"}
+{"id": "2309.15217", "title": "Ragas: Automated Evaluation of Retrieval Augmented Generation"}
+{"id": "2503.14649", "title": "RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving"}
+{"id": "2502.01142", "title": "DeepRAG: Thinking to Retrieve Step by Step for Large Language Models"}
+{"id": "2502.06864", "title": "Knowledge Graph-Guided Retrieval Augmented Generation"}
+{"id": "2504.12560", "title": "CDF-RAG: Causal Dynamic Feedback for Adaptive Retrieval-Augmented Generation"}
+{"id": "2405.08120", "title": "From Questions to Insightful Answers: Building an Informed Chatbot for University Resources"}
+{"id": "2406.01549", "title": "An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation"}
+{"id": "2501.15470", "title": "CogPlanner: Unveiling the Potential of Agentic Multimodal Retrieval Augmented Generation with Planning"}
+{"id": "2501.04425", "title": "End-to-End Bangla AI for Solving Math Olympiad Problem Benchmark: Leveraging Large Language Model Using Integrated Approach"}
+{"id": "2506.16037", "title": "Enhancing Document-Level Question Answering via Multi-Hop Retrieval-Augmented Generation with LLaMA 3"}
+{"id": "2407.04925", "title": "RAMO: Retrieval-Augmented Generation for Enhancing MOOCs Recommendations"}
+{"id": "2502.13847", "title": "DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue"}
+{"id": "2412.15272", "title": "SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation"}
+{"id": "2605.31010", "title": "MoG: Mixture of Experts for Graph-based Retrieval-Augmented Generation"}
+{"id": "2603.22367", "title": "Reasoner-Executor-Synthesizer: Scalable Agentic Architecture with Static O(1) Context Window"}
+{"id": "2604.02259", "title": "Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider"}
+{"id": "2505.14381", "title": "SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation"}
+{"id": "2410.06062", "title": "LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs"}
+{"id": "2405.13792", "title": "xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token"}
+{"id": "2506.21931", "title": "ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation"}
+{"id": "2501.15067", "title": "CG-RAG: Research Question Answering by Citation Graph Retrieval-Augmented LLMs"}
+{"id": "2503.23421", "title": "A Multi-agent Onboarding Assistant based on Large Language Models, Retrieval Augmented Generation, and Chain-of-Thought"}
+{"id": "2510.01600", "title": "A Comparison of Independent and Joint Fine-tuning Strategies for Retrieval-Augmented Generation"}
+{"id": "2510.10426", "title": "Taming a Retrieval Framework to Read Images in Humanlike Manner for Augmenting Generation of MLLMs"}
+{"id": "2601.05254", "title": "TagRAG: Tag-guided Hierarchical Knowledge Graph Retrieval-Augmented Generation"}
+{"id": "2406.13249", "title": "R^2AG: Incorporating Retrieval Information into Retrieval Augmented Generation"}
+{"id": "2411.09213", "title": "Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering"}
+{"id": "2504.08893", "title": "Knowledge Graph-extended Retrieval Augmented Generation for Question Answering"}
+{"id": "2601.17212", "title": "DF-RAG: Query-Aware Diversity for Retrieval-Augmented Generation"}
+{"id": "2502.01549", "title": "VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos"}
+{"id": "2504.10529", "title": "HeteRAG: A Heterogeneous Retrieval-augmented Generation Framework with Decoupled Knowledge Representations"}
+{"id": "2609.00513", "title": "ISO-RAG: Isoperimetric Noise Control for Retrieval-Augmented Generation"}
+{"id": "2311.04177", "title": "Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation"}
+{"id": "2402.08416", "title": "Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning"}
+{"id": "2404.00610", "title": "RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation"}
+{"id": "2506.20821", "title": "MultiFinRAG: An Optimized Multimodal Retrieval-Augmented Generation (RAG) Framework for Financial Question Answering"}
+{"id": "2508.09460", "title": "Towards Self-cognitive Exploration: Metacognitive Knowledge Graph Retrieval Augmented Generation"}
+{"id": "2605.27860", "title": "C-MIG: Multi-view Information Gain-based Retrieval-Augmented Generation for Clinical Diagnosis Reasoning"}
+{"id": "2511.01649", "title": "Evaluating Cultural Knowledge Processing in Large Language Models: A Cognitive Benchmarking Framework Integrating Retrieval-Augmented Generation"}
+{"id": "2502.18905", "title": "Automated Code Generation and Validation for Software Components of Microcontrollers"}
+{"id": "2411.16133", "title": "Context Awareness Gate For Retrieval Augmented Generation"}
+{"id": "2505.17503", "title": "CReSt: A Comprehensive Benchmark for Retrieval-Augmented Generation with Complex Reasoning over Structured Documents"}
+{"id": "2505.00443", "title": "Distributed Retrieval-Augmented Generation"}
+{"id": "2607.00972", "title": "Bayesian Uncertainty Propagation for Agentic RAG Pipelines: A Proof-of-Concept Study on Multi-Hop Question Answering"}
+{"id": "2604.18234", "title": "Evaluating Multi-Hop Reasoning in RAG Systems: A Comparison of LLM-Based Retriever Evaluation Strategies"}
+{"id": "2402.13178", "title": "Benchmarking Retrieval-Augmented Generation for Medicine"}
+{"id": "2501.00332", "title": "MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation"}
+{"id": "2411.18583", "title": "Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation"}
+{"id": "2507.05714", "title": "HIRAG: Hierarchical-Thought Instruction-Tuning Retrieval-Augmented Generation"}
+{"id": "2508.03553", "title": "MultiRAG: A Knowledge-guided Framework for Mitigating Hallucination in Multi-source Retrieval Augmented Generation"}
+{"id": "2412.14304", "title": "Multi-OphthaLingua: A Multilingual Benchmark for Assessing and Debiasing LLM Ophthalmological QA in LMICs"}
+{"id": "2501.05475", "title": "Retrieval-Augmented Generation by Evidence Retroactivity in LLMs"}
+{"id": "2608.05138", "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains"}
+{"id": "2406.12449", "title": "Retrieval-Augmented Generation for Generative Artificial Intelligence in Medicine"}
+{"id": "2405.17602", "title": "Augmenting Textual Generation via Topology Aware Retrieval"}
+{"id": "2412.14510", "title": "PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization"}
+{"id": "2602.22217", "title": "RAGdb: A Zero-Dependency, Embeddable Architecture for Multimodal Retrieval-Augmented Generation on the Edge"}
+{"id": "2602.19240", "title": "Topology of Reasoning: Retrieved Cell Complex-Augmented Generation for Textual Graph Question Answering"}
+{"id": "2509.01341", "title": "Street-Level Geolocalization Using Multimodal Large Language Models and Retrieval-Augmented Generation"}
+{"id": "2504.10074", "title": "MMKB-RAG: A Multi-Modal Knowledge-Based Retrieval-Augmented Generation Framework"}
+{"id": "2605.14192", "title": "Why Retrieval-Augmented Generation Fails: A Graph Perspective"}
+{"id": "2502.18536", "title": "FilterRAG: Zero-Shot Informed Retrieval-Augmented Generation to Mitigate Hallucinations in VQA"}
+{"id": "2604.03174", "title": "Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation"}
+{"id": "2607.11159", "title": "NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation"}
+{"id": "2608.22228", "title": "Prompt-Based Abstention Fails Under Misleading Context: A Controlled Study of Small Frozen RAG Models"}
+{"id": "2508.14048", "title": "RAG-Boost: Retrieval-Augmented Generation Enhanced LLM-based Speech Recognition"}
+{"id": "2407.01158", "title": "Learning to Explore and Select for Coverage-Conditioned Retrieval-Augmented Generation"}
+{"id": "2502.10950", "title": "SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information"}
+{"id": "2401.15884", "title": "Corrective Retrieval Augmented Generation"}
+{"id": "2410.13272", "title": "FRAG: Toward Federated Vector Database Management for Collaborative and Secure Retrieval-Augmented Generation"}
+{"id": "2409.01666", "title": "In Defense of RAG in the Era of Long-Context Language Models"}
+{"id": "2508.17862", "title": "Retrieval Feedback Memory Enhancement Large Model Retrieval Generation Method"}
+{"id": "2604.14215", "title": "PriHA: A RAG-Enhanced LLM Framework for Primary Healthcare Assistant in Hong Kong"}
+{"id": "2608.21252", "title": "EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering"}
+{"id": "2410.13865", "title": "Classifying Peace in Global Media Using RAG and Intergroup Reciprocity"}
+{"id": "2602.23184", "title": "MTRAG-UN: A Benchmark for Open Challenges in Multi-Turn RAG Conversations"}
+{"id": "2305.02437", "title": "Lift Yourself Up: Retrieval-augmented Text Generation with Self Memory"}
+{"id": "2502.04176", "title": "MRAMG-Bench: A Comprehensive Benchmark for Advancing Multimodal Retrieval-Augmented Multimodal Generation"}
+{"id": "2410.15667", "title": "RAC: Efficient LLM Factuality Correction with Retrieval Augmentation"}
+{"id": "2407.12101", "title": "Better RAG using Relevant Information Gain"}
+{"id": "2410.22353", "title": "RuleRAG: Rule-Guided Retrieval-Augmented Generation with Language Models for Question Answering"}
+{"id": "2603.03617", "title": "RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation"}
+{"id": "2506.00281", "title": "Adversarial Threat Vectors and Risk Mitigation for Retrieval-Augmented Generation Systems"}
+{"id": "2407.21459", "title": "KemenkeuGPT: Leveraging a Large Language Model on Indonesia's Government Financial Data and Regulations to Enhance Decision Making"}
+{"id": "2312.10904", "title": "Dynamic Retrieval Augmented Generation of Ontologies using Artificial Intelligence (DRAGON-AI)"}
+{"id": "2603.15712", "title": "LLM-Driven Discovery of High-Entropy Catalysts via Retrieval-Augmented Generation"}
+{"id": "2407.11638", "title": "A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting"}
+{"id": "2510.17354", "title": "Towards Mixed-Modal Retrieval for Universal Retrieval-Augmented Generation"}
+{"id": "2502.20964", "title": "Fine-Grained Knowledge Structuring and Retrieval for Visual Question Answering"}
+{"id": "2604.22061", "title": "Lightweight Retrieval-Augmented Generation and Large Language Model-Based Modeling for Scalable Patient-Trial Matching"}
+{"id": "2604.06211", "title": "Illocutionary Explanation Planning for Source-Faithful Explanations in Retrieval-Augmented Language Models"}
+{"id": "2506.00671", "title": "DeepRAG: Integrating Hierarchical Reasoning and Process Supervision for Biomedical Multi-Hop QA"}
+{"id": "2507.07983", "title": "Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology"}
+{"id": "2501.13881", "title": "The machine learning platform for developers of large systems"}
+{"id": "2510.02243", "title": "AccurateRAG: A Framework for Building Accurate Retrieval-Augmented Question-Answering Applications"}
+{"id": "2502.19534", "title": "Retrieval Augmented Anomaly Detection (RAAD): Nimble Model Adjustment Without Retraining"}
+{"id": "2511.16224", "title": "Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts"}
+{"id": "2602.04712", "title": "SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation"}
+{"id": "2601.17692", "title": "LegalMALR:Multi-Agent Query Understanding and LLM-Based Reranking for Chinese Statute Retrieval"}
+{"id": "2607.03615", "title": "The Powerless Noise: How Experimental Settings Shape the Reported Power of Noise"}
+{"id": "2511.04020", "title": "Abductive Inference in Retrieval-Augmented Language Models: Generating and Validating Missing Premises"}
+{"id": "2406.07348", "title": "DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation for Question-Answering"}
+{"id": "2511.00489", "title": "ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models"}
+{"id": "2403.10081", "title": "DRAGIN: Dynamic Retrieval Augmented Generation based on the Information Needs of Large Language Models"}
+{"id": "2603.23972", "title": "Grounding Arabic LLMs in the Doha Historical Dictionary: Retrieval-Augmented Understanding of Quran and Hadith"}
+{"id": "2508.05318", "title": "mKG-RAG: Leveraging Multimodal Knowledge Graphs in Retrieval-Augmented Generation for Knowledge-intensive VQA"}
+{"id": "2604.22843", "title": "Structure Guided Retrieval-Augmented Generation for Factual Queries"}
+{"id": "2606.15971", "title": "SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges"}
+{"id": "2509.07620", "title": "Towards End-to-End Model-Agnostic Explanations for RAG Systems"}
+{"id": "2606.28737", "title": "5ting at SemEval-2026 Task 8: Strong End-to-End Multi-Turn RAG via LLM-Based Reranking and Faithfulness Control"}
+{"id": "2501.04858", "title": "Advancing Retrieval-Augmented Generation for Persian: Development of Language Models, Comprehensive Benchmarks, and Best Practices for Optimization"}
+{"id": "2504.14917", "title": "POLYRAG: Integrating Polyviews into Retrieval-Augmented Generation for Medical Applications"}
+{"id": "2412.13163", "title": "C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System"}
+{"id": "2508.21238", "title": "Addressing accuracy and hallucination of LLMs in Alzheimer's disease research through knowledge graphs"}
+{"id": "2509.04502", "title": "VaccineRAG: Boosting Multimodal Large Language Models' Immunity to Harmful RAG Samples"}
+{"id": "2503.14234", "title": "Beyond Single Pass, Looping Through Time: KG-IRAG with Iterative Knowledge Retrieval"}
+{"id": "2508.09105", "title": "SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling"}
+{"id": "2407.12325", "title": "Optimizing Query Generation for Enhanced Document Retrieval in RAG"}
+{"id": "2312.07796", "title": "Harnessing Retrieval-Augmented Generation (RAG) for Uncovering Knowledge Gaps"}
+{"id": "2410.02914", "title": "Streamlining Conformal Information Retrieval via Score Refinement"}
+{"id": "2509.11947", "title": "A GPU-Accelerated RAG-Based Telegram Assistant for Supporting Parallel Processing Students"}
+{"id": "2509.22490", "title": "JGU Mainz's Submission to the WMT25 Shared Task on LLMs with Limited Resources for Slavic Languages: MT and QA"}
+{"id": "2507.17399", "title": "Millions of $\\text{GeAR}$-s: Extending GraphRAG to Millions of Documents"}
+{"id": "2505.11626", "title": "THELMA: Task Based Holistic Evaluation of Large Language Model Applications-RAG Question Answering"}
+{"id": "2511.17154", "title": "Proposal of an AI-Based Support Assistant for the ALICE-FIT Detector Setup at CERN"}
+{"id": "2501.07793", "title": "Unsupervised Query Routing for Retrieval Augmented Generation"}
+{"id": "2510.07728", "title": "Who Stole Your Data? A Method for Detecting Unauthorized RAG Theft"}
+{"id": "2505.04680", "title": "Retrieval Augmented Generation Evaluation for Health Documents"}
+{"id": "2504.19101", "title": "Privacy-Preserving Federated Embedding Learning for Localized Retrieval-Augmented Generation"}
+{"id": "2508.08149", "title": "REX-RAG: Reasoning Exploration with Policy Correction in Retrieval-Augmented Generation"}
+{"id": "2601.11199", "title": "SD-RAG: A Prompt-Injection-Resilient Framework for Selective Disclosure in Retrieval-Augmented Generation"}
+{"id": "2606.03307", "title": "Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation"}
+{"id": "2607.24799", "title": "Multimodal Hybrid Retrieval-Augmented Generation for Scientific Document Understanding using Open-Source SLMs"}
+{"id": "2501.10734", "title": "GEC-RAG: Improving Generative Error Correction via Retrieval-Augmented Generation for Automatic Speech Recognition Systems"}
+{"id": "2509.01030", "title": "Identifying Origins of Place Names via Retrieval Augmented Generation"}
+{"id": "2308.00479", "title": "Retrieval Augmented Generation and Representative Vector Summarization for large unstructured textual data in Medical Education"}
+{"id": "2406.07257", "title": "Scholarly Question Answering using Large Language Models in the NFDI4DataScience Gateway"}
+{"id": "2408.04259", "title": "EfficientRAG: Efficient Retriever for Multi-Hop Question Answering"}
+{"id": "2410.03771", "title": "SeeSay: An Assistive Device for the Visually Impaired Using Retrieval Augmented Generation"}
+{"id": "2604.22095", "title": "An End-to-End Ukrainian RAG for Local Deployment. Optimized Hybrid Search and Lightweight Generation"}
+{"id": "2411.07238", "title": "OpenThaiGPT 1.5: A Thai-Centric Open Source Large Language Model"}
+{"id": "2502.21107", "title": "Generating patient cohorts from electronic health records using two-step retrieval-augmented text-to-SQL generation"}
+{"id": "2504.13190", "title": "Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations"}
+{"id": "2509.24253", "title": "MRAG-Suite: A Diagnostic Evaluation Platform for Visual Retrieval-Augmented Generation"}
+{"id": "2608.30498", "title": "CM2: Multimodal Cultural Reasoning via an Integrated Multi-Agent Framework"}
+{"id": "2403.06840", "title": "RA-ISF: Learning to Answer and Understand from Retrieval Augmentation via Iterative Self-Feedback"}
+{"id": "2601.06551", "title": "L-RAG: Balancing Context and Retrieval with Entropy-Based Lazy Loading"}
+{"id": "2412.20810", "title": "TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting"}
+{"id": "2608.14054", "title": "Model-agnostic Retrieval-Augmented Extended Forecasting for time series"}
+{"id": "2607.29459", "title": "TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion"}
+{"id": "2501.11440", "title": "RACCOON: A Retrieval-Augmented Generation Approach for Location Coordinate Capture from News Articles"}
+{"id": "2508.00476", "title": "GETALP@AutoMin 2025: Leveraging RAG to Answer Questions based on Meeting Transcripts"}
+{"id": "2603.26046", "title": "Retrieval-Augmented Generation Based Nurse Observation Extraction"}
+{"id": "2408.02811", "title": "Development of REGAI: Rubric Enabled Generative Artificial Intelligence"}
+{"id": "2405.16933", "title": "Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning"}
+{"id": "2606.04522", "title": "ANN Search: Recall What Matters"}
+{"id": "2501.13958", "title": "A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"}
+{"id": "2406.14783", "title": "Evaluating RAG-Fusion with RAGElo: an Automated Elo-based Framework"}
+{"id": "2602.17216", "title": "NTLRAG: Narrative Topic Labels derived with Retrieval Augmented Generation"}
+{"id": "2607.22597", "title": "HyCE-RAG: Hypergraph Chain-of-Evidence Retrieval-Augmented Generation for Explainable Multi-hop Question Answering"}
+{"id": "2605.25039", "title": "AstroRAG -- A Pagerank-Based Retrieval-Augmented Generation Pipeline for Question Answering in Astronomy"}
+{"id": "2602.09817", "title": "AnalyticsGPT: An LLM Workflow for Scientometric Question Answering"}
+{"id": "2605.22829", "title": "LFRAG: Layout-oriented Fine-grained Retrieval-Augmented Generation on Multimodal Document Understanding"}
+{"id": "2411.05141", "title": "Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with Retrieval-Augmented Generation"}
+{"id": "2604.10504", "title": "CARO: Chain-of-Analogy Reasoning Optimization for Robust Content Moderation"}
+{"id": "2407.21055", "title": "Bailicai: A Domain-Optimized Retrieval-Augmented Generation Framework for Medical Applications"}
+{"id": "2510.27054", "title": "LLM-Centric RAG with Multi-Granular Indexing and Confidence Constraints"}
+{"id": "2511.01059", "title": "Efficient Test-Time Retrieval Augmented Generation"}
+{"id": "2510.10114", "title": "LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora"}
+{"id": "2605.26926", "title": "From Norms to Indicators (N2I-RAG): An Agentic Retrieval-Augmented Generation Framework for Legal Indicator Computation"}
+{"id": "2307.02694", "title": "Loss Functions and Metrics in Deep Learning"}
+{"id": "2508.12282", "title": "A Question Answering Dataset for Temporal-Sensitive Retrieval-Augmented Generation"}
+{"id": "2603.18330", "title": "MemArchitect: A Policy Driven Memory Governance Layer"}
+{"id": "2511.10787", "title": "Sabiá: Um Chatbot de Inteligência Artificial Generativa para Suporte no Dia a Dia do Ensino Superior"}
+{"id": "2507.18857", "title": "PrismRAG: Boosting RAG Factuality with Distractor Resilience and Strategized Reasoning"}
+{"id": "2411.06493", "title": "LProtector: An LLM-driven Vulnerability Detection System"}
+{"id": "2503.10150", "title": "Retrieval-Augmented Generation with Hierarchical Knowledge"}
+{"id": "2601.13105", "title": "Leveraging Lora Fine-Tuning and Knowledge Bases for Construction Identification"}
+{"id": "2605.30400", "title": "Protocol for evaluating ChatGPT in biomedical association generation and verification using a RAG-enabled, cross-model majority voting workflow"}
+{"id": "2509.07706", "title": "FHIR-RAG-MEDS: Integrating HL7 FHIR with Retrieval-Augmented Large Language Models for Enhanced Medical Decision Support"}
+{"id": "2508.20131", "title": "ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation"}
+{"id": "2506.10844", "title": "CIIR@LiveRAG 2025: Optimizing Multi-Agent Retrieval Augmented Generation through Self-Training"}
+{"id": "2409.15337", "title": "Revisiting the Solution of Meta KDD Cup 2024: CRAG"}
+{"id": "2603.09222", "title": "LooComp: Leverage Leave-One-Out Strategy to Encoder-only Transformer for Efficient Query-aware Context Compression"}
+{"id": "2512.19841", "title": "A Multi-Agent Retrieval-Augmented Framework for Work-in-Progress Predictio"}
+{"id": "2505.13129", "title": "Optimizing Retrieval Augmented Generation for Object Constraint Language"}
+{"id": "2603.22528", "title": "GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs"}
+{"id": "2607.29173", "title": "MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest Neighbor Indexes"}
+{"id": "2407.06718", "title": "A Simple Architecture for Enterprise Large Language Model Applications based on Role based security and Clearance Levels using Retrieval-Augmented Generation or Mixture of Experts"}
+{"id": "2412.12358", "title": "BioRAGent: A Retrieval-Augmented Generation System for Showcasing Generative Query Expansion and Domain-Specific Search for Scientific Q&A"}
+{"id": "2411.12759", "title": "A Novel Approach to Eliminating Hallucinations in Large Language Model-Assisted Causal Discovery"}
+{"id": "2507.16711", "title": "Advancing Risk and Quality Assurance: A RAG Chatbot for Improved Regulatory Compliance"}
+{"id": "2504.10861", "title": "Ai2 Scholar QA: Organized Literature Synthesis with Attribution"}
+{"id": "2510.15722", "title": "The 3rd Place Solution of CCIR CUP 2025: A Framework for Retrieval-Augmented Generation in Multi-Turn Legal Conversation"}
+{"id": "2601.18886", "title": "XProvence: Zero-Cost Multilingual Context Pruning for Retrieval-Augmented Generation"}
+{"id": "2509.23630", "title": "Game-Oriented ASR Error Correction via RAG-Enhanced LLM"}
+{"id": "2512.18357", "title": "DACE For Railway Acronym Disambiguation"}
+{"id": "2507.16826", "title": "A Query-Aware Multi-Path Knowledge Graph Fusion Approach for Enhancing Retrieval-Augmented Generation in Large Language Models"}
+{"id": "2604.09548", "title": "Retrieval-Augmented Large Language Models for Evidence-Informed Guidance on Cannabidiol Use in Older Adults"}
+{"id": "2505.14462", "title": "RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding"}
+{"id": "2403.11413", "title": "Dynamic Contexts for Generating Suggestion Questions in RAG Based Conversational Systems"}
+{"id": "2509.19411", "title": "Poster: ChatIYP: Enabling Natural Language Access to the Internet Yellow Pages Database"}
+{"id": "2512.23966", "title": "Efficient Context Scaling with LongCat ZigZag Attention"}
+{"id": "2503.21157", "title": "Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best?"}
+{"id": "2309.16035", "title": "MKRAG: Medical Knowledge Retrieval Augmented Generation for Medical Question Answering"}
+{"id": "2601.01513", "title": "FastV-RAG: Towards Fast and Fine-Grained Video QA with Retrieval-Augmented Generation"}
+{"id": "2508.06328", "title": "M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation"}
+{"id": "2406.19150", "title": "RAVEN: Multitask Retrieval Augmented Vision-Language Learning"}
+{"id": "2601.21340", "title": "EHR-RAG: Bridging Long-Horizon Structured Electronic Health Records and Large Language Models via Enhanced Retrieval-Augmented Generation"}
+{"id": "2502.12794", "title": "RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models"}
+{"id": "2511.05302", "title": "When More Retrieval Hurts: Retrieval-Augmented Code Review Generation"}
+{"id": "2401.10286", "title": "Code-Based English Models Surprising Performance on Chinese QA Pair Extraction Task"}
+{"id": "2407.09394", "title": "PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents"}
+{"id": "2506.06015", "title": "On the Merits of LLM-Based Corpus Enrichment"}
+{"id": "2602.22224", "title": "DS SERVE: A Framework for Efficient and Scalable Neural Retrieval"}
+{"id": "2502.05344", "title": "RAG-Verus: Repository-Level Program Verification with LLMs using Retrieval Augmented Generation"}
+{"id": "2410.16843", "title": "Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning"}
+{"id": "2506.06500", "title": "Improving LLM-Powered EDA Assistants with RAFT"}
+{"id": "2402.16893", "title": "The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)"}
+{"id": "2505.13581", "title": "RAR: Setting Knowledge Tripwires for Retrieval Augmented Rejection"}
+{"id": "2510.00919", "title": "Benchmarking Foundation Models with Retrieval-Augmented Generation in Olympic-Level Physics Problem Solving"}
